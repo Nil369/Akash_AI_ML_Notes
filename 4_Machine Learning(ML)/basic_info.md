@@ -1,7 +1,5 @@
 # **I) What is Machine Learning (ML)?**
 
-<img src="https://www.researchgate.net/publication/373797588/figure/fig1/AS:11431281187528395@1694271303862/A-comparative-view-of-AI-machine-learning-deep-learning-and-generative-AI-source.png" align="right" width="300" height="200">
-
 - Machine Learning is a subfield of Artificial Intelligence (AI) that involves ***developing algorithms and statistical models*** that ***enable computers to learn patterns from data and make predictions or decisions without explicit programming***. 
 
 - ML systems improve over time as they are exposed to more data. The key phases in the ML process include data collection, preprocessing, model selection, training, evaluation, optimization, and deployment.
@@ -65,5 +63,3 @@ No, Reinforcement Learning and Deep Learning are different concepts:
 6. **Security risks:** Vulnerable to adversarial attacks, where small changes in input can trick models into incorrect predictions.  
 
 ---
-### ***SUMMARY:***
-<img src="https://www.researchgate.net/publication/354960266/figure/fig1/AS:11431281251915131@1718389091562/The-main-types-of-machine-learning-Main-approaches-include-classification-and-regression.tif">
