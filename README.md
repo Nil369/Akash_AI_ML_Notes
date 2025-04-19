@@ -38,3 +38,15 @@ The `uv` package manager is a Python ecosystem tool similar to `npm` in the Java
     uv add <pkg_name> # Install package using uv
     uv pip freeze > requirements.txt  # Freeze your dependencies to used on any system
     ```
+
+- In VS code in .ipynb files we need to select the kernel from the `.venv`
+  
+- If you want to use jupyter notebooks in your browser view not in vs code, use these commands in the `root directory` of this project:
+    ```bash
+    
+    .\.venv\Scripts\Activate.ps1      # For Windows
+
+    source .venv/bin/activate         # For Unix based OS (Mac/Linux): 
+
+    ```
+- These will activate the virtual environment for you and we can use `jupyter notebook` or `jupyter lab` to work in the default browser view
