@@ -31,6 +31,10 @@ The `uv` package manager is a Python ecosystem tool similar to `npm` in the Java
 
     ```bash
     uv add -r requirements.txt
+    
+    # Or let uv install from the pyproject.toml
+    uv pip install .
+
     ```
 
 - If you need to add any dependency for your learning locally on your system, use these commands:
@@ -50,3 +54,9 @@ The `uv` package manager is a Python ecosystem tool similar to `npm` in the Java
 
     ```
 - These will activate the virtual environment for you and we can use `jupyter notebook` or `jupyter lab` to work in the default browser view
+
+<br>
+
+> ### Note: For `Deep Learning` we are using `CUDA - 12.6` and cuDNN - `8.9.7.x` for developing AI models with `PyTorch` and `Tensorflow`.
+
+<br>
